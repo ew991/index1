@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Do_/my-app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "thuc_tap"
+	}
+}
